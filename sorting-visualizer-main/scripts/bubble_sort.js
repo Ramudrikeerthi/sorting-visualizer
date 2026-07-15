@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
+
 
 function Bubble() {
   //Setting Time complexities
@@ -40,9 +35,5 @@ function Bubble() {
   enable_buttons();
 }
 
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
     *****************
 */
